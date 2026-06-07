@@ -2,8 +2,6 @@
 
 This repository contains the code for AVIKA, a framework designed to bridge the inherent information asymmetry between sparse text queries and dense visual content in text-video retrieval. By leveraging knowledge-guided alignment, AVIKA significantly enhances semantic understanding. The proposed architecture integrates video-caption interaction, query-aware weighting and filtering, multi-granularity matching, and a hard-negative loss strategy, demonstrating strong performance across standard benchmarks including MSRVTT, MSVD, and DiDeMo.
 
-![framework](docs/framework.png)
-
 **Note:** This work is currently under review.
 
 ## Requirements
