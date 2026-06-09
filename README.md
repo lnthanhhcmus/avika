@@ -194,4 +194,4 @@ python -m torch.distributed.launch --nproc_per_node=1 main.py \
 **Note:** To enable augmented query data, you can add `--aug_json_path`, `--fqs_k`, and `--aggregation_strategy` to your execution script. These arguments are supported in both `--do_train` and `--do_eval` modes.
 
 # Resources
-The implementation of NarVid relies on resources from [CLIP](https://github.com/openai/CLIP "CLIP"), [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip "CLIP4Clip") and [Cap4Video](https://github.com/whwu95/Cap4Video "Cap4Video").
+Our code is based on resources from [CLIP](https://github.com/openai/CLIP "CLIP"), [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip "CLIP4Clip") and [Cap4Video](https://github.com/whwu95/Cap4Video "Cap4Video").
